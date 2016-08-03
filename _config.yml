@@ -1,0 +1,14 @@
+layout_spectrum: 0.7783962700050324
+typography_spectrum: 0.2910808874294162
+color:
+  brandStrength: 0.3263304247520864
+  lightness: 0.7101525347679853
+  saturation: 0.9868645453825593
+  rhythmicContrast: 0.3205234189517796
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: XO
